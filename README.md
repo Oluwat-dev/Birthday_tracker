@@ -1,7 +1,10 @@
 # 🎂 Birthday Tracker PWA
 
 A modern, user-friendly Progressive Web App (PWA) designed to help you effortlessly track, organize, and remember important birthdays. Never miss a celebration again with timely notifications, easy data management, and a beautiful, intuitive interface.
-Live demo:[https://gorgeous-florentine-9a591e.netlify.app]
+
+
+[View live demo here](https://gorgeous-florentine-9a591e.netlify.app)
+
 
 ## ✨ Features
 
